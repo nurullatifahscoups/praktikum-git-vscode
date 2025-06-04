@@ -1,0 +1,1 @@
+print("Hello... Git and VSCode!, MyName Nurul Latifah, Sem 4 UNIPI")
